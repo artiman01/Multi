@@ -5,7 +5,7 @@ webrtcvad
 librosa>=0.5.1
 matplotlib>=2.0.2
 numpy>=2.8.0
-scipy>=1.0.0
+scipy>=1.14.0
 tqdm
 sounddevice
 Unidecode
